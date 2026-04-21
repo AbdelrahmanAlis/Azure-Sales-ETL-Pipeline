@@ -16,7 +16,7 @@ This project demonstrates an end-to-end Data Pipeline built using **Azure Data F
 ## 🏗️ Pipeline Architecture
 The pipeline is optimized to ensure data integrity through a sequential literal flow.
 
-![Full Pipeline Visualization](./images/final_pipeline.png)
+![Full Pipeline Visualization](./images/dataflow_pipeline.png)
 
 ---
 
